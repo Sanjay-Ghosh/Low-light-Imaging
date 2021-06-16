@@ -6,8 +6,8 @@
 
 ===========================================================================================
 
-Authors: Sanjay Ghosh and K. N. Chaudhury
-         Indian Inst of Science
+Authors: Sanjay Ghosh and K. N. Chaudhury.
+         Indian Institute of Science.
         Email: sanjayg@iisc.ac.in
 
 Date: April, 2019.
