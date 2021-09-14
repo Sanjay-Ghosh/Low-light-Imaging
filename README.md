@@ -1,6 +1,6 @@
 
 # Low-light Image Enhancement 
-# IEEE, ICIP, 2019
+# IEEE ICIP, 2019
 
 # S. Ghosh and K. N. Chaudhury, “Fast bright-pass bilateral filtering for low-light enhancement”, Proc. IEEE  International Conference on Image Processing (ICIP), pp. 205-209, Taipei, Taiwan, 2019.
 
